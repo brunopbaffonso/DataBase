@@ -6,7 +6,6 @@
 </head>
 
 <body>
-SUCESSO!<br>
-<a href="index.php">Clique Aqui!</a>
+<a href="index.php">ERRO!</a>
 </body>
 </html>

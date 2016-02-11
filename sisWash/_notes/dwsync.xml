@@ -2,8 +2,23 @@
 <dwsync>
 <file name="CTRL_Cliente.php" server="31.220.16.218//public_html/" local="130983713946492121" remote="130983789000000000" Dst="2" />
 <file name="CTRL_Despesas.php" server="31.220.16.218//public_html/" local="130983714438949656" remote="130983789000000000" Dst="2" />
-<file name="index.php" server="31.220.16.218//public_html/" local="130983723171357493" remote="130983796800000000" Dst="2" />
-<file name="sucesso.php" server="31.220.16.218//public_html/" local="130983685716102391" remote="130983778200000000" Dst="2" />
+<file name="index.php" server="31.220.16.218//public_html/" local="130996764681665815" remote="130996838400000000" Dst="2" />
+<file name="sucesso.php" server="31.220.16.218//public_html/" local="130996169911844522" remote="130996243800000000" Dst="2" />
 <file name="CTRL_Funcionario.php" server="31.220.16.218//public_html/" local="130983700001021506" remote="130983778200000000" Dst="2" />
 <file name="CTRL_Servico.php" server="31.220.16.218//public_html/" local="130983714946575219" remote="130983789000000000" Dst="2" />
+<file name="erro.php" server="31.220.16.218//public_html/" local="130996170763420691" remote="130996244400000000" Dst="2" />
+<file name="digiteD.php" server="31.220.16.218//public_html/" local="130996713700554247" remote="130996791000000000" Dst="2" />
+<file name="digiteC.php" server="31.220.16.218//public_html/" local="130996684310518739" remote="130996791000000000" Dst="2" />
+<file name="editar.php" server="31.220.16.218//public_html/" local="130996780413461525" remote="130996854000000000" Dst="2" />
+<file name="SALVA_Despesas.php" server="31.220.16.218//public_html/" local="130996750923326561" remote="130996837200000000" Dst="2" />
+<file name="SALVA_Cliente.php" server="31.220.16.218//public_html/" local="130996750596132331" remote="130996837200000000" Dst="2" />
+<file name="SALVA_Servico.php" server="31.220.16.218//public_html/" local="130996751289353602" remote="130996837200000000" Dst="2" />
+<file name="digiteF.php" server="31.220.16.218//public_html/" local="130996711434911167" remote="130996791000000000" Dst="2" />
+<file name="SALVA_Funcionario.php" server="31.220.16.218//public_html/" local="130996751113887328" remote="130996837200000000" Dst="2" />
+<file name="digiteS.php" server="31.220.16.218//public_html/" local="130996713521436811" remote="130996791000000000" Dst="2" />
+<file name="remC.php" server="31.220.16.218//public_html/" local="130996756985918846" remote="130996837200000000" Dst="2" />
+<file name="remF.php" server="31.220.16.218//public_html/" local="130996756966191313" remote="130996837200000000" Dst="2" />
+<file name="remover.php" server="31.220.16.218//public_html/" local="130996783399863644" remote="130996857000000000" Dst="2" />
+<file name="remS.php" server="31.220.16.218//public_html/" local="130996756950941676" remote="130996837200000000" Dst="2" />
+<file name="remD.php" server="31.220.16.218//public_html/" local="130996756975619218" remote="130996837200000000" Dst="2" />
 </dwsync>
